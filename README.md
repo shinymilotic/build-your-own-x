@@ -39,6 +39,87 @@ It's a great way to learn.
 * [**C++**: _Emulation tutorial (GameBoy emulator)_](http://www.codeslinger.co.uk/pages/projects/gameboy.html)
 * [**C++**: _Emulation tutorial (Master System emulator)_](http://www.codeslinger.co.uk/pages/projects/mastersystem/memory.html)
 * [**C++**: _NES Emulator From Scratch_](https://www.youtube.com/playlist?list=PLrOv9FMX8xJHqMvSGB_9G9nZZ_4IgteYf) [video]
+- [Build an Interpreter](http://www.craftinginterpreters.com/) (Chapter 14 on is written in C)
+- [Memory Allocators 101 - Write a simple memory allocator](https://arjunsreedharan.org/post/148675821737/memory-allocators-101-write-a-simple-memory)
+- [Write a Shell in C](https://brennan.io/2015/01/16/write-a-shell-in-c/)
+- [Write a FUSE Filesystem](https://www.cs.nmsu.edu/~pfeiffer/fuse-tutorial/)
+- [Build Your Own Text Editor](http://viewsourcecode.org/snaptoken/kilo/)
+- [Build Your Own Lisp](http://www.buildyourownlisp.com/)
+- [How to Program an NES Game in C](https://nesdoug.com/)
+- [Write an OS from scratch](https://github.com/tuhdo/os01)
+- [How to create an OS from scratch ](https://github.com/cfenollosa/os-tutorial)
+- [Building a CHIP-8 Emulator](https://austinmorlan.com/posts/chip8_emulator/)
+- [Implementing a Key-Value Store](http://codecapsule.com/2012/11/07/ikvs-implementing-a-key-value-store-table-of-contents/)
+- Writing a minimal x86-64 JIT compiler in C++
+  - [Part 1](https://solarianprogrammer.com/2018/01/10/writing-minimal-x86-64-jit-compiler-cpp/)
+  - [Part 2](https://solarianprogrammer.com/2018/01/12/writing-minimal-x86-64-jit-compiler-cpp-part-2/)
+- [Build a Live Code-reloader Library for C++](http://howistart.org/posts/cpp/1/index.html)
+- [Write a hash table in C](https://github.com/jamesroutley/write-a-hash-table)
+- [Let's Build a Simple Database](https://cstack.github.io/db_tutorial/)
+- [Let's Write a Kernel](http://arjunsreedharan.org/post/82710718100/kernel-101-lets-write-a-kernel)
+- [Write a Bootloader in C](http://3zanders.co.uk/2017/10/13/writing-a-bootloader/)
+- [Linux Container in 500 Lines of Code](https://blog.lizzie.io/linux-containers-in-500-loc.html)
+- [Write Your Own Virtual Machine](https://justinmeiners.github.io/lc3-vm/)
+- [Learning KVM - Implement Your Own Linux Kernel](https://david942j.blogspot.com/2018/10/note-learning-kvm-implement-your-own.html)
+- Write a C compiler
+  - [Part 1: Integers, Lexing and Code Generation](https://norasandler.com/2017/11/29/Write-a-Compiler.html)
+  - [Part 2: Unary Operators](https://norasandler.com/2017/12/05/Write-a-Compiler-2.html)
+  - [Part 3: Binary Operators](https://norasandler.com/2017/12/15/Write-a-Compiler-3.html)
+  - [Part 4: Even More Binary Operators](https://norasandler.com/2017/12/28/Write-a-Compiler-4.html)
+  - [Part 5: Local Variables](https://norasandler.com/2018/01/08/Write-a-Compiler-5.html)
+  - [Part 6: Conditionals](https://norasandler.com/2018/02/25/Write-a-Compiler-6.html)
+  - [Part 7: Compound Statements](https://norasandler.com/2018/03/14/Write-a-Compiler-7.html)
+  - [Part 8: Loops](https://norasandler.com/2018/04/10/Write-a-Compiler-8.html)
+  - [Part 9: Functions](https://norasandler.com/2018/06/27/Write-a-Compiler-9.html)
+  - [Part 10: Global Variables](https://norasandler.com/2019/02/18/Write-a-Compiler-10.html)
+- [Implementing a Language with LLVM](https://llvm.org/docs/tutorial/#kaleidoscope-implementing-a-language-with-llvm)
+- [High-Performance Matrix Multiplication](https://gist.github.com/nadavrot/5b35d44e8ba3dd718e595e40184d03f0)
+- Writing a Linux Debugger
+  - [Part 1: Setup](https://blog.tartanllama.xyz/writing-a-linux-debugger-setup/)
+  - [Part 2: Breakpoints](https://blog.tartanllama.xyz/writing-a-linux-debugger-breakpoints/)
+  - [Part 3: Registers and memory](https://blog.tartanllama.xyz/writing-a-linux-debugger-registers/)
+  - [Part 4: Elves and dwarves](https://blog.tartanllama.xyz/writing-a-linux-debugger-elf-dwarf/)
+  - [Part 5: Source and signals](https://blog.tartanllama.xyz/writing-a-linux-debugger-source-signal/)
+  - [Part 6: Source-level stepping](https://blog.tartanllama.xyz/writing-a-linux-debugger-dwarf-step/)
+  - [Part 7: Source-level breakpoints](https://blog.tartanllama.xyz/writing-a-linux-debugger-source-break/)
+  - [Part 8: Stack unwinding](https://blog.tartanllama.xyz/writing-a-linux-debugger-unwinding/)
+  - [Part 9: Handling variables](https://blog.tartanllama.xyz/writing-a-linux-debugger-variables/)
+  - [Part 10: Advanced topics](https://blog.tartanllama.xyz/writing-a-linux-debugger-advanced-topics/)
+- Let's write a compiler
+  - [Part 1: Introduction, selecting a language, and doing some planning](https://briancallahan.net/blog/20210814.html)
+  - [Part 2: A lexer](https://briancallahan.net/blog/20210815.html)
+  - [Part 3: A parser](https://briancallahan.net/blog/20210816.html)
+  - [Part 4: Testing](https://briancallahan.net/blog/20210817.html)
+  - [Part 5: A code generator](https://briancallahan.net/blog/20210818.html)
+  - [Part 6: Input and output](https://briancallahan.net/blog/20210819.html)
+  - [Part 7: Arrays](https://briancallahan.net/blog/20210822.html)
+  - [Part 8: Strings, forward references, and conclusion](https://briancallahan.net/blog/20210826.html)
+### Network programming
+
+- Let's Code a TCP/IP Stack
+
+  - [Part 1: Ethernet & ARP](http://www.saminiir.com/lets-code-tcp-ip-stack-1-ethernet-arp/)
+  - [Part 2: IPv4 & ICMPv4](http://www.saminiir.com/lets-code-tcp-ip-stack-2-ipv4-icmpv4/)
+  - [Part 3: TCP Basics & Handshake](http://www.saminiir.com/lets-code-tcp-ip-stack-3-tcp-handshake/)
+  - [Part 4: TCP Data Flow & Socket API](http://www.saminiir.com/lets-code-tcp-ip-stack-4-tcp-data-flow-socket-api/)
+  - [Part 5: TCP Retransmission](http://www.saminiir.com/lets-code-tcp-ip-stack-5-tcp-retransmission/)
+
+- Programming concurrent servers
+  - [Part 1 - Introduction](https://eli.thegreenplace.net/2017/concurrent-servers-part-1-introduction/)
+  - [Part 2 - Threads](https://eli.thegreenplace.net/2017/concurrent-servers-part-2-threads/)
+  - [Part 3 - Event-driven](https://eli.thegreenplace.net/2017/concurrent-servers-part-3-event-driven/)
+  - [Part 4 - libuv](https://eli.thegreenplace.net/2017/concurrent-servers-part-4-libuv/)
+  - [Part 5 - Redis case study](https://eli.thegreenplace.net/2017/concurrent-servers-part-5-redis-case-study/)
+  - [Part 6 - Callbacks, Promises and async/await](https://eli.thegreenplace.net/2018/concurrent-servers-part-6-callbacks-promises-and-asyncawait/)
+
+- MQTT Broker from scratch
+  - [Part 1 - The protocol](https://codepr.github.io/posts/sol-mqtt-broker)
+  - [Part 2 - Networking](https://codepr.github.io/posts/sol-mqtt-broker-p2)
+  - [Part 3 - Server](https://codepr.github.io/posts/sol-mqtt-broker-p3)
+  - [Part 4 - Data structures](https://codepr.github.io/posts/sol-mqtt-broker-p4)
+  - [Part 5 - Topic abstraction](https://codepr.github.io/posts/sol-mqtt-broker-p5)
+  - [Part 6 - Handlers](https://codepr.github.io/posts/sol-mqtt-broker-p6)
+  - [Bonus - Multithreading](https://codepr.github.io/posts/sol-mqtt-broker-bonus)
 
 #### Build your own `Front-end Framework / Library`
 
